@@ -1,6 +1,12 @@
 <html>
 	<head>
 		<title>disiti</title>
+		<style type="text/css">
+		<!--
+			.blue{color:#0000FF}
+			.purple{color: #FF00FF}
+			.宋体{font-family:"宋体"}
+		-->
 	</head>
 	<body>
 		<center><h1>小y和火迷宫</h1></center>
