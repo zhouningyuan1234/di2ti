@@ -7,6 +7,7 @@
 			.purple{color: #FF00FF}
 			.宋体{font-family:"宋体"}
 		-->
+		</style>
 	</head>
 	<body>
 		<center><h1>小y和火迷宫</h1></center>
