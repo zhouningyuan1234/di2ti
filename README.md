@@ -28,6 +28,6 @@
 		<pre><code>无</code></pre>
 		<h2>说明</h2>
 		<div>IMPOSSIBLE要大写</div>
-		<div>题库:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Item-bank-resources/"><span class="purple">返回</span></a></button></div>
+		<div>题库:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Item-bank/"><span class="purple">返回</span></a></button></div>
 	</body>
 </html>
